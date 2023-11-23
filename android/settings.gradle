@@ -1,0 +1,3 @@
+rootProject.name = 'ace_poc_flutter_plugin'
+include ':ace_poc_flu_plug_library'
+project(':ace_poc_flu_plug_library').projectDir = new File('libs/ace_poc_flu_plug_library')
